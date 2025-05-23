@@ -1,0 +1,1155 @@
+{
+  "Version": 1,
+  "Hash": "q6x/hZ/QhUfs+3ekZRtDgjyBxFGmU7Hi1NOP6jqH+sM=",
+  "Source": "AhmedJoiyaPortfolio",
+  "BasePath": "_content/AhmedJoiyaPortfolio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AhmedJoiyaPortfolio\\wwwroot",
+      "Source": "AhmedJoiyaPortfolio",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AhmedJoiyaPortfolio.styles.css",
+      "SourceId": "AhmedJoiyaPortfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "RelativePath": "AhmedJoiyaPortfolio#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "wyq72scd07",
+      "Integrity": "uEkDoNE8tNegWg9bmArADzj4k87heK+CSi2vXMqcduI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AhmedJoiyaPortfolio.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AhmedJoiyaPortfolio.bundle.scp.css",
+      "SourceId": "AhmedJoiyaPortfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "RelativePath": "AhmedJoiyaPortfolio#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "wyq72scd07",
+      "Integrity": "uEkDoNE8tNegWg9bmArADzj4k87heK+CSi2vXMqcduI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AhmedJoiyaPortfolio.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\app.css",
+      "SourceId": "AhmedJoiyaPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "AhmedJoiyaPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "AhmedJoiyaPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\css\\site.css",
+      "SourceId": "AhmedJoiyaPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vmsijiqgg0",
+      "Integrity": "d3y/PaQO55EyR6F1yW00OADivUsBxqyyeF5ulpozsTM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\favicon.png",
+      "SourceId": "AhmedJoiyaPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\files\\Ahmed_Joiya_CV_Design_Tech_Internship.docx",
+      "SourceId": "AhmedJoiyaPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "RelativePath": "files/Ahmed_Joiya_CV_Design_Tech_Internship#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iep3qp278y",
+      "Integrity": "ph6n2uWqFEKWp7XIAgNdmp2PGQcSKSrCw1K/92+uz7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\Ahmed_Joiya_CV_Design_Tech_Internship.docx"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\Cricket_fantasy_league.png",
+      "SourceId": "AhmedJoiyaPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "RelativePath": "images/Cricket_fantasy_league#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27crhpbho2",
+      "Integrity": "fhspeewYgGMN1rd36o0fvdOy0xo8k4b+vNfPQ8W3ig8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Cricket_fantasy_league.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\hoopmetrics-placeholder.png",
+      "SourceId": "AhmedJoiyaPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "RelativePath": "images/hoopmetrics-placeholder#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "awt4oyy6gt",
+      "Integrity": "WvBtehxxAXo0xbcumw+Hwd+GaiENBvPvlCvlouO+Ogk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hoopmetrics-placeholder.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\ICC.png",
+      "SourceId": "AhmedJoiyaPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\",
+      "BasePath": "_content/AhmedJoiyaPortfolio",
+      "RelativePath": "images/ICC#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hx5palu42r",
+      "Integrity": "RYiMT5Pbz7x6/c0g7S1o2C0oyAjmiS7GcauZSHcJfg0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ICC.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "AhmedJoiyaPortfolio.bundle.scp.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AhmedJoiyaPortfolio.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uEkDoNE8tNegWg9bmArADzj4k87heK+CSi2vXMqcduI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:24:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uEkDoNE8tNegWg9bmArADzj4k87heK+CSi2vXMqcduI="
+        }
+      ]
+    },
+    {
+      "Route": "AhmedJoiyaPortfolio.styles.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AhmedJoiyaPortfolio.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uEkDoNE8tNegWg9bmArADzj4k87heK+CSi2vXMqcduI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:24:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uEkDoNE8tNegWg9bmArADzj4k87heK+CSi2vXMqcduI="
+        }
+      ]
+    },
+    {
+      "Route": "AhmedJoiyaPortfolio.wyq72scd07.bundle.scp.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AhmedJoiyaPortfolio.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uEkDoNE8tNegWg9bmArADzj4k87heK+CSi2vXMqcduI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:24:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wyq72scd07"
+        },
+        {
+          "Name": "label",
+          "Value": "AhmedJoiyaPortfolio.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uEkDoNE8tNegWg9bmArADzj4k87heK+CSi2vXMqcduI="
+        }
+      ]
+    },
+    {
+      "Route": "AhmedJoiyaPortfolio.wyq72scd07.styles.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AhmedJoiyaPortfolio.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uEkDoNE8tNegWg9bmArADzj4k87heK+CSi2vXMqcduI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:24:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wyq72scd07"
+        },
+        {
+          "Name": "label",
+          "Value": "AhmedJoiyaPortfolio.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uEkDoNE8tNegWg9bmArADzj4k87heK+CSi2vXMqcduI="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d3y/PaQO55EyR6F1yW00OADivUsBxqyyeF5ulpozsTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d3y/PaQO55EyR6F1yW00OADivUsBxqyyeF5ulpozsTM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.vmsijiqgg0.css",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d3y/PaQO55EyR6F1yW00OADivUsBxqyyeF5ulpozsTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vmsijiqgg0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d3y/PaQO55EyR6F1yW00OADivUsBxqyyeF5ulpozsTM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "files/Ahmed_Joiya_CV_Design_Tech_Internship.docx",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\files\\Ahmed_Joiya_CV_Design_Tech_Internship.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ph6n2uWqFEKWp7XIAgNdmp2PGQcSKSrCw1K/92+uz7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:04:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ph6n2uWqFEKWp7XIAgNdmp2PGQcSKSrCw1K/92+uz7I="
+        }
+      ]
+    },
+    {
+      "Route": "files/Ahmed_Joiya_CV_Design_Tech_Internship.iep3qp278y.docx",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\files\\Ahmed_Joiya_CV_Design_Tech_Internship.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ph6n2uWqFEKWp7XIAgNdmp2PGQcSKSrCw1K/92+uz7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:04:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iep3qp278y"
+        },
+        {
+          "Name": "label",
+          "Value": "files/Ahmed_Joiya_CV_Design_Tech_Internship.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ph6n2uWqFEKWp7XIAgNdmp2PGQcSKSrCw1K/92+uz7I="
+        }
+      ]
+    },
+    {
+      "Route": "images/Cricket_fantasy_league.27crhpbho2.png",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\Cricket_fantasy_league.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhspeewYgGMN1rd36o0fvdOy0xo8k4b+vNfPQ8W3ig8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27crhpbho2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Cricket_fantasy_league.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fhspeewYgGMN1rd36o0fvdOy0xo8k4b+vNfPQ8W3ig8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Cricket_fantasy_league.png",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\Cricket_fantasy_league.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhspeewYgGMN1rd36o0fvdOy0xo8k4b+vNfPQ8W3ig8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fhspeewYgGMN1rd36o0fvdOy0xo8k4b+vNfPQ8W3ig8="
+        }
+      ]
+    },
+    {
+      "Route": "images/hoopmetrics-placeholder.awt4oyy6gt.png",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\hoopmetrics-placeholder.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "659759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WvBtehxxAXo0xbcumw+Hwd+GaiENBvPvlCvlouO+Ogk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:41:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "awt4oyy6gt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hoopmetrics-placeholder.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WvBtehxxAXo0xbcumw+Hwd+GaiENBvPvlCvlouO+Ogk="
+        }
+      ]
+    },
+    {
+      "Route": "images/hoopmetrics-placeholder.png",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\hoopmetrics-placeholder.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "659759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WvBtehxxAXo0xbcumw+Hwd+GaiENBvPvlCvlouO+Ogk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 22:41:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WvBtehxxAXo0xbcumw+Hwd+GaiENBvPvlCvlouO+Ogk="
+        }
+      ]
+    },
+    {
+      "Route": "images/ICC.hx5palu42r.png",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\ICC.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "749586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RYiMT5Pbz7x6/c0g7S1o2C0oyAjmiS7GcauZSHcJfg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 23:07:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hx5palu42r"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ICC.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RYiMT5Pbz7x6/c0g7S1o2C0oyAjmiS7GcauZSHcJfg0="
+        }
+      ]
+    },
+    {
+      "Route": "images/ICC.png",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\ICC.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "749586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RYiMT5Pbz7x6/c0g7S1o2C0oyAjmiS7GcauZSHcJfg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 23:07:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RYiMT5Pbz7x6/c0g7S1o2C0oyAjmiS7GcauZSHcJfg0="
+        }
+      ]
+    }
+  ]
+}

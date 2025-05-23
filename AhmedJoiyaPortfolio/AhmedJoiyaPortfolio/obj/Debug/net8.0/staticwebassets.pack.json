@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AhmedJoiyaPortfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AhmedJoiyaPortfolio.wyq72scd07.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\files\\Ahmed_Joiya_CV_Design_Tech_Internship.docx",
+      "PackagePath": "staticwebassets\\files\\Ahmed_Joiya_CV_Design_Tech_Internship.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\Cricket_fantasy_league.png",
+      "PackagePath": "staticwebassets\\images\\Cricket_fantasy_league.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\ICC.png",
+      "PackagePath": "staticwebassets\\images\\ICC.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\AhmedJoiyaPortfolio\\AhmedJoiyaPortfolio\\wwwroot\\images\\hoopmetrics-placeholder.png",
+      "PackagePath": "staticwebassets\\images\\hoopmetrics-placeholder.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AhmedJoiyaPortfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AhmedJoiyaPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AhmedJoiyaPortfolio.props",
+      "PackagePath": "build\\AhmedJoiyaPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AhmedJoiyaPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\AhmedJoiyaPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AhmedJoiyaPortfolio.props",
+      "PackagePath": "buildTransitive\\AhmedJoiyaPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

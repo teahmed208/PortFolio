@@ -1,0 +1,124 @@
+﻿@page "/"
+@using System.ComponentModel.DataAnnotations
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<!-- Custom CSS -->
+<link href="css/site.css" rel="stylesheet" />
+<div class="container py-5">
+    <!-- Hero -->
+    <section class="text-center mb-5">
+        <h1 class="display-4">Ahmed Joiya</h1>
+        <p class="lead text-primary">Designer and Developer</p>
+        <div>
+            <a href="mailto:ahmedjoiya208@gmail.com" class="btn btn-primary mx-2 my-1">Email Me</a>
+            <a href="https://www.instagram.com/24hrbranding" target="_blank" class="btn btn-primary mx-2 my-1">Instagram</a>
+            <a href="files/Ahmed_Joiya_CV_Design_Tech_Internship.pdf" download class="btn btn-primary mx-2 my-1">Download CV</a>
+        </div>
+    </section>
+
+    <!-- About Me -->
+    <section class="mb-5">
+        <h2 class="section-title">About Me</h2>
+        <p>
+            I'm Ahmed Joiya, a passionate student of Computer Science and an emerging designer with a sharp eye for branding and digital experiences.
+            I run an Instagram page called “24hr Branding” where I design and share brand kits and visual identities.
+            With hands-on experience in Blazor Server development, Adobe Illustrator, and UI design principles,
+            I enjoy blending creativity with logic. I'm currently looking for exciting opportunities to grow and create impactful digital work.
+        </p>
+    </section>
+
+    <!-- Skills -->
+    <section class="mb-5">
+        <h2 class="section-title">Skills & Tools</h2>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item bg-transparent text-light ps-0">Adobe Illustrator (in progress), Canva</li>
+            <li class="list-group-item bg-transparent text-light ps-0">Branding: Logo design, brand kits, digital identity</li>
+            <li class="list-group-item bg-transparent text-light ps-0">Blazor Server (C#/.NET), UI/UX collaboration</li>
+            <li class="list-group-item bg-transparent text-light ps-0">EMU 8086 Assembly Programming</li>
+            <li class="list-group-item bg-transparent text-light ps-0">Microsoft Office, Figma (basic), GitHub (basic)</li>
+        </ul>
+    </section>
+
+    <!-- Projects -->
+    <section class="mb-5">
+        <h2 class="section-title">Projects</h2>
+        <div class="row gy-4">
+            <div class="col-md-4">
+                <div class="project-card p-3">
+                    <img src="images/ICC.png" alt="24hr Branding Project" class="img-fluid rounded mb-3" />
+                    <h5>Islamabad Community Center</h5>
+                    <p>Created and shared custom branding kits showcasing understanding of identity and visual consistency.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="project-card p-3">
+                    <img src="images/hoopmetrics-placeholder.png" alt="HoopMetrics Project" class="img-fluid rounded mb-3" />
+                    <h5>HoopMetrics – Blazor Server App</h5>
+                    <p>Developed a live web app to manage real-time basketball player stats with backend and UI integration.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="project-card p-3">
+                    <img src="images/Cricket_fantasy_league.png" alt="Etsy Activity Books" class="img-fluid rounded mb-3" />
+                    <h5>Cricket Fanstasy League</h5>
+                    <p>Cricket Fantasy League app that lets users pick players and track performance.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="mb-5">
+        <h2 class="section-title">Contact Me</h2>
+        <EditForm Model="@contactModel" OnValidSubmit="HandleSubmit" class="needs-validation" novalidate>
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+            <div class="mb-3">
+                <label for="nameInput" class="form-label">Name</label>
+                <InputText id="nameInput" class="form-control" @bind-Value="contactModel.Name" required />
+            </div>
+            <div class="mb-3">
+                <label for="emailInput" class="form-label">Email</label>
+                <InputText id="emailInput" type="email" class="form-control" @bind-Value="contactModel.Email" required />
+            </div>
+            <div class="mb-3">
+                <label for="messageInput" class="form-label">Message</label>
+                <InputTextArea id="messageInput" class="form-control" @bind-Value="contactModel.Message" rows="5" required />
+            </div>
+            <button type="submit" class="btn btn-primary">Send</button>
+        </EditForm>
+
+        @if (showSuccessMessage)
+        {
+            <div class="alert alert-success mt-3" role="alert">
+                Thank you! Your message has been sent.
+            </div>
+        }
+    </section>
+</div>
+
+@code {
+    private ContactModel contactModel = new();
+    private bool showSuccessMessage = false;
+
+    private void HandleSubmit()
+    {
+        // Placeholder for backend mail logic
+        showSuccessMessage = true;
+        contactModel = new ContactModel(); // Reset form
+    }
+
+    public class ContactModel
+    {
+        [Required(ErrorMessage = "Name is required")]
+        public string? Name { get; set; }
+
+        [Required(ErrorMessage = "Email is required")]
+        [EmailAddress(ErrorMessage = "Invalid email address")]
+        public string? Email { get; set; }
+
+        [Required(ErrorMessage = "Message is required")]
+        public string? Message { get; set; }
+    }
+}
